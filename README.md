@@ -1,0 +1,5 @@
+- # sobre mim
+-  👋 olá meu nome é @ducruzdu
+- 👍 Meu email de contato é eduarda.cristinaalvesda.cruz@escola.pr.gov.br
+- 👀 Eu estou interresado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
